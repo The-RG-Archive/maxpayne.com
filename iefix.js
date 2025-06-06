@@ -24,7 +24,7 @@ function theDudeAbides(){
 	document.write('<param name=play value=true>');
 	document.write('<param name=loop value=false>');
 	document.write('<param name=scale value=showall>');
-	document.write('<embed src="maxpayne_main.swf" quality=high loop="false" menu="false" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="750" height="375"></embed>');
+	document.write('<embed src="flash/maxpayne_main.swf" quality=high loop="false" menu="false" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="750" height="375"></embed>');
 	document.write('<NOEMBED><a href="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">you must download flash 4 or higher to view this</a></NOEMBED>');
 	document.write('<NOSCRIPT><a href="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">you must download flash 4 or higher to view this</a></NOSCRIPT>');
 	document.write('</object>');
